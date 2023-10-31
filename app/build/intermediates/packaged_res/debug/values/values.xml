@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Application</string>
+    <string name="appname">Live</string>
+    <string name="channel">channel</string>
+    <string name="channel1">channel1</string>
+    <string name="default_web_client_id" translatable="false">396985713510-qeijt8qfifm44onjo7vqaaebauef3143.apps.googleusercontent.com</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="firebase_database_url" translatable="false">https://too-late-a06d3-default-rtdb.firebaseio.com</string>
+    <string name="fullscreen">fullscreen</string>
+    <string name="gcm_defaultSenderId" translatable="false">396985713510</string>
+    <string name="google_api_key" translatable="false">AIzaSyDk4JkGJNK9LO1OtQmbu2MaEcqVYqVkftU</string>
+    <string name="google_app_id" translatable="false">1:396985713510:android:dd5546903458d70f74fea7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDk4JkGJNK9LO1OtQmbu2MaEcqVYqVkftU</string>
+    <string name="google_storage_bucket" translatable="false">too-late-a06d3.appspot.com</string>
+    <string name="play_btn">play btn</string>
+    <string name="progress_bar">progress bar</string>
+    <string name="project_id" translatable="false">too-late-a06d3</string>
+    <string name="settings_icon_desc">ic_settings</string>
+    <string name="timebar">timebar</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <style name="BScreen">
+        <item name="android:background">#FFF</item>
+    </style>
+    <style name="Theme.Custom" parent="@style/Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <declare-styleable name="FullscreenAttrs">
+        <attr format="color" name="fullscreenBackgroundColor"/>
+        <attr format="color" name="fullscreenTextColor"/>
+    </declare-styleable>
+</resources>

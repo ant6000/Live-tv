@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    tools:context=".MainActivity">
+
+    <com.google.android.exoplayer2.ui.StyledPlayerView
+        android:id="@+id/video_player"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:controller_layout_id="@layout/custom_exo_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:resize_mode="fill"
+        app:show_buffering="when_playing">
+    </com.google.android.exoplayer2.ui.StyledPlayerView>
+<!--    <ProgressBar-->
+<!--        android:id="@+id/_progressBar"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="120dp"/>-->
+    <ScrollView
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/video_player">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Heading1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/main"
+                android:text="Sports Channel"
+                android:textSize="30sp"
+                android:textStyle="bold"/>
+
+            <HorizontalScrollView
+                android:id="@+id/_Sports"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Heading1">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/SC_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/star1"/>
+
+                    <ImageButton
+                        android:id="@+id/SC_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/skysports"
+                        android:layout_marginStart="10dp"/>
+
+                    <ImageButton
+                        android:id="@+id/SC_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/tensports"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/SC_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/foxsports"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/SC_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/espn"
+                        android:layout_marginStart="10dp"/>
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/Heading2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/_Sports"
+                android:text="Movies Channel"
+                android:textSize="30sp"
+                android:textStyle="bold"/>
+
+            <HorizontalScrollView
+                android:id="@+id/_Movies"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Heading2">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/MC_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/starmovies"/>
+
+                    <ImageButton
+                        android:id="@+id/MC_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/moveisnow"
+                        android:layout_marginStart="10dp"/>
+
+                    <ImageButton
+                        android:id="@+id/MC_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/hbomax"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/MC_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/sonymovies"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/MC_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/fif1"
+                        android:layout_marginStart="10dp"/>
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/Heading3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/_Sports"
+                android:text="News Channel"
+                android:textSize="30sp"
+                android:textStyle="bold"/>
+
+            <HorizontalScrollView
+                android:id="@+id/_News"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Heading3">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/NW_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/nbc"/>
+
+                    <ImageButton
+                        android:id="@+id/NW_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/cnn"
+                        android:layout_marginStart="10dp"/>
+
+                    <ImageButton
+                        android:id="@+id/NW_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/cbs"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/NW_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/fox"
+                        android:layout_marginStart="10dp"/>
+                    <ImageButton
+                        android:id="@+id/NW_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/abc"
+                        android:layout_marginStart="10dp"/>
+                </LinearLayout>
+
+            </HorizontalScrollView>
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

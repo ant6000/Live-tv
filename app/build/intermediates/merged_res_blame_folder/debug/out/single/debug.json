@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_fullscreenbtn.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\fullscreenbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\layout_custom_exo_layout.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\layout\\custom_exo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_hbomax.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\hbomax.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_nbc.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\nbc.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_cbs.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\cbs.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_pausebtn.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\pausebtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_sonymovies.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\sonymovies.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable-v24_fif1.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable-v24\\fif1.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_moveisnow.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\moveisnow.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_cnn.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\cnn.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_ic_baseline_live_tv_24.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\ic_baseline_live_tv_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_skysports.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\skysports.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_fullscreen_exitbtn.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\fullscreen_exitbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_tensports.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\tensports.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_foxsports.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\foxsports.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_star1.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\star1.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_starmovies.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\starmovies.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_abc.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\abc.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable-v24_fifa2.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable-v24\\fifa2.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_playbtn.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\playbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_espn.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\espn.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_fullscreen_24.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-main-37:\\drawable\\fullscreen_24.xml"
+    },
+    {
+        "merged": "com.example.liveTv.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.liveTv.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_fox.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\fox.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Antor\\.gradle\\daemon\\7.4\\com.example.liveTv.app-debug-36:\\drawable\\ic_launcher_background.xml"
+    }
+]
